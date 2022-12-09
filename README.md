@@ -6,4 +6,6 @@ jest e ts-node devem estar instaladas globalmente<br />
 Para executar o arquivo<br />
 `ts-node compare-version.ts`<br />
 Para executar os testes<br />
-`jest`
+`jest`<br />
+
+Victor Lapa e Matheus Duarte
