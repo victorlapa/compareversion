@@ -21,3 +21,7 @@ export function compare(version1: string, version2: string) {
     }
   }
 }
+
+console.log(compare("11", "10"));
+console.log(compare("11.2", "10.3"));
+console.log(compare("11.20", "11.21"));
